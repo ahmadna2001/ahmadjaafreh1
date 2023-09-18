@@ -1,1 +1,1 @@
-print(Ahmad Jaafre)
+print(Ahmad Jaafreh)
